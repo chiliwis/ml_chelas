@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chiliwis/ml_chelas/issues"
   },
-  "homepage": "https://github.com/chiliwis/ml_chelas#readme"
+  "homepage": "https://github.com/chiliwis/ml_chelas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
